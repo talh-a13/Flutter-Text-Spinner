@@ -65,7 +65,6 @@ lib/
 
 ## Credits
 
-- Tutorial inspiration: https://www.youtube.com/watch?v=cJFWEZ3FVpo&t=2565s
 - Related article: https://fidev.io/kinetic-poster/
 
 ## License
